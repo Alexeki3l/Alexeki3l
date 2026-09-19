@@ -40,8 +40,8 @@ I'm a Senior Full-Stack Developer with **8+ years of experience**, backend-focus
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alessio-villafruela&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessio-villafruela&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexeki3l&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeki3l&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 > ⚠️ Replace `alessio-villafruela` above with your actual GitHub username if it's different, or the stats/views widgets won't load.
  
